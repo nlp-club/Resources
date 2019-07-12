@@ -14,6 +14,8 @@
 
 ### From UDACITY
 > https://classroom.udacity.com/courses/ud188
+
+
 Lesson 7 - Recurrent Neural Network
 Lesson 8 - Sentiment Prediction RNN
 This course is like an extended version of our lecture 2 - Neural Networks in PyTroch, and the above lessons might be a good way to familiarise with NLP using PyTorch
@@ -24,8 +26,11 @@ This course is like an extended version of our lecture 2 - Neural Networks in Py
 
 ### BERT
 The following kaggle kernels might be a good starting point!
+
 > https://www.kaggle.com/yuval6967/toxic-bert-plain-vanila https://www.kaggle.com/abhishek/pytorch-bert-inference
+
 This is a very good article explaining BERT:
+
 >https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 
 ### Adaptors
