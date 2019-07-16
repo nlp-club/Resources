@@ -37,3 +37,8 @@ This is a very good article explaining BERT:
 > https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62
 
 
+
+#### LSTM
+> http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+
