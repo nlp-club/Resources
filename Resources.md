@@ -18,7 +18,7 @@
 
 Lesson 7 - Recurrent Neural Network
 Lesson 8 - Sentiment Prediction RNN
-This course is like an extended version of our lecture 2 - Neural Networks in PyTroch, and the above lessons might be a good way to familiarise with NLP using PyTorch
+This course is like an extended version of our lecture 2 - Neural Networks in PyTorch, and the above lessons might be a good way to familiarise with NLP using PyTorch
 
 ### XLNet
 > https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/
